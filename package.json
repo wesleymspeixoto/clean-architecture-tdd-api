@@ -4,7 +4,7 @@
   "description": "Api NodeJs with Clean Architecture, TDD and Design Patterns",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "author": "Wesley Peixoto",
   "license": "ISC",
