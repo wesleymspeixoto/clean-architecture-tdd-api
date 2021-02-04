@@ -1,11 +1,11 @@
 {
   "name": "clean-architecture-tdd-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api NodeJs with Clean Architecture, TDD and Design Patterns",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Wesley Peixoto",
   "license": "ISC"
 }
